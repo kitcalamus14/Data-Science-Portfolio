@@ -5,7 +5,7 @@ A repository of the projects I worked on or currently working on. It is updated 
 Please contact me on [Linkedin](https://www.linkedin.com/in/alexzilihuang) if you are looking to hire a data scientist.
  
 ## Projects:
-
+  
 ###  [Anomaly Detection on Beijing pm2.5 data using LSTM - Under Construction](https://github.com/alexhuang1117/personal_projects/tree/master/pm25_analysis)
 ![image](https://github.com/alexhuang1117/personal_projects/blob/master/pm25_analysis/images/model_arch.jpg?raw=true)
 * Used LSTM to fit five years of Beijing weather data 
